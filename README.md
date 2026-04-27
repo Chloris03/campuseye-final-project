@@ -54,4 +54,4 @@ campuseye-final-project/
 ├── ai_model/
 ├── jetson_device/
 ├── docs/
-└── requirements.txt
+└── requirements.txtTest by Chloris
